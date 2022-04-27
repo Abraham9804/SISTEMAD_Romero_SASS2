@@ -55,7 +55,7 @@ header {
 /*Alto de imagenes en carrusel*/
 .d-block {
   max-height: 700px;
-  min-height: 170px;
+  min-height: 200px;
 }
 
 /*Transparencia en descripcion*/
@@ -511,6 +511,10 @@ footer {
   .titulo-marcas {
     padding: 10px 20px;
   }
+
+  .d-block {
+    height: 200px;
+  }
 }
 
-/*# sourceMappingURL=estilos.css.map */
+/*# sourceMappingURL=css.map */

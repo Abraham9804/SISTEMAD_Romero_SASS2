@@ -9,3 +9,12 @@ se creo un extend desde la clase .descripcion-producto para eutilizar codigo en 
 
 se creo un extend desde la clase .fa-facebook-f para eutilizar codigo en las clases
 .fa-instagram y .fa-whatsapp
+
+Se definio el mixin medidas_contenedor($ancho, $alto) y se aplico a las siguientes clases de la seccion 
+main del index:
+.img-producto
+.contenedor-populares
+.marcas
+.contenedor-marcas
+
+

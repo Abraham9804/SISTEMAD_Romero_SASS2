@@ -40,4 +40,4 @@ Se creó el map $redes para aplicar colores de background a los iconos con las s
 
 /*------- SEO --------*/
 Se agregaron meta description y meta keywords a todos los archivos html, tambien se verifico que cada 
-archivo html contenda un titulo h1
+archivo html contenga un titulo h1
